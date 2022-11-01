@@ -1,5 +1,5 @@
 # anjikanji
-kanji sorted by the strong element
+joyo x toyo kanji sorted by the strong element
 wip
 
 	以 	以 
@@ -192,5 +192,4 @@ wip
 	
 	昆 斉 甚 亭 唇 曹 
 	瓶 靴 塾 覇 
-![image](https://user-images.githubusercontent.com/24707777/199349732-713f820b-4f7a-48a2-8221-e4c016bbf485.png)
 
